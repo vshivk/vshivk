@@ -1,7 +1,7 @@
 <h3>⚡️ Hi ⚡️</h3>
 <p>
   🧔 I'm <bold>Victoria</bold><br/>
-  💻 Frontend Developer <bold><a href="https://reactjs.org/">React.js</a></bold>.<br/>
+  💻 Frontend Developer <bold><a href="https://reactjs.org/">React.js</a></bold> based in Russia, in IT since 2020.<br/>
   🎓 Solve tasks on <a href="https://www.codewars.com/dashboard">Codewars</a> 
 </p>
 <img src="https://www.codewars.com/users/vshivkova/badges/large" alt="codewars"/>
