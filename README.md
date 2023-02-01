@@ -35,7 +35,6 @@
   📣 Contacts<br/>
   <a href="https://t.me/victoriavvc"><img src="https://img.shields.io/badge/TELEGRAM-249eda.svg?style=for-the-badge&logo=telegram&logoColor=white"/></a>
   <a href="mailto:vshivkovavictoria@gmail.com"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
-<!--   <img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/> -->
   <a href="https://twitter.com/vshivkv"><img src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 </p>
 <div display="flex" align="right">
