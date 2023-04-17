@@ -18,12 +18,9 @@
     <img src="https://img.shields.io/badge/-Typescript-3178c6?style=flat-square&logo=typescript&logoColor=fff"/>
     <img src="https://img.shields.io/badge/-MUI-0072e5?style=flat-square&logo=mui&logoColor=fff"/>
     <img src="https://img.shields.io/badge/-Sass-cf649a?style=flat-square&logo=sass&logoColor=fff"/>
-    <img src="https://img.shields.io/badge/-%D0%91%D0%AD%D0%9C-052433?style=flat-square&logo=bem&logoColor=1599da"/>
     <img src="https://img.shields.io/badge/-Webstorm-2096d7?style=flat-square&logo=webstorm&logoColor=000"/>
     <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Git-F44D27?style=flat-square&logo=Git&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-WebPack-1C78C0?style=flat-square&logo=WebPack&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Gulp-cf4647?style=flat-square&logo=gulp&logoColor=fff"/>
   </p>
 </p>
 <p>
