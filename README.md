@@ -5,7 +5,7 @@
   🎓 Solve tasks on <a href="https://www.codewars.com/dashboard">Codewars</a><br/>
   🐎 In love with riding horses
 </p>
-<img src="https://www.codewars.com/users/vshivkova/badges/large" alt="codewars"/>
+<img src="https://www.codewars.com/users/vshadrina/badges/large" alt="codewars"/>
 
 <p>
   <img align="left" width="350" height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=vshivk&theme=dark&hide_border=true&border_radius=5.7&ring=7A0606"/>
